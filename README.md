@@ -16,7 +16,7 @@ This repository contains all the projects I've completed while taking the follow
 Each project is organized in its own folder, containing:
 
 - **Source code**: Python scripts and any supplementary files.
-- **README (if applicable)**: A brief explanation of the project, its goals, and how to run it.
-- **Requirements/Dependencies (if applicable)**: Information about external libraries or tools.
+- **README**: A brief explanation of the project.
+- **Requirements**: Information about external libraries or tools.
 
 👤 **[Check out my profile](https://hyperskill.org/profile/423749721)**
